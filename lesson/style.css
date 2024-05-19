@@ -1,0 +1,17 @@
+.one {
+    background-image:url("Изображение\ WhatsApp\ 2024-05-19\ в\ 20.31.45_b3760b38.jpg")
+}
+
+.two {
+
+}
+.tree {
+            
+            flex-direction: column; /* Вертикальная последовательность */
+            padding: 70px 0;
+            text-align: center;/* Центрирование по горизонтали */
+            gap: 20px; /* Расстояние между кнопками */
+            width: 5px; /* Уменьшение до 50% ширины */
+    height: auto; /* Сохранение пропорций */
+            
+}
